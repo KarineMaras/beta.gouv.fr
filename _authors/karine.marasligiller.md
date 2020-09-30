@@ -7,6 +7,7 @@ employer: independent/octo
 startups:
     - plante-et-moi:
         inactive
+    - ZAM
 ---
 
 Mother of axolotls.
